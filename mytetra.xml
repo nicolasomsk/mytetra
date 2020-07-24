@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/Flat/color_icons8_flat_folder.svg" id="1595501453swwadbuqir" name="МЦД">
+   <node crypt="" icon="/Flat/color_icons8_flat_folder.svg" id="1595501465qe9cdso8fy" name="Славянский Бульвар">
+    <recordtable>
+     <record id="1595502185cnjd52cunk" name="Общая информация" author="Николай" url="" tags="" ctime="20200723140305" dir="1595502185o0w3qhp9j7" file="text.html"/>
+     <record id="15955024649m6bg8w8y5" name="Контакты" author="Николай" url="" tags="" ctime="20200723140744" dir="1595502464acl9y1w735" file="text.html"/>
+     <record id="1595503320bedf0trc0d" name="Замечания/неисправности" author="Николай" url="" tags="" ctime="20200723142200" dir="15955033206qe3b5u1l5" file="text.html"/>
+    </recordtable>
+    <node crypt="" icon="/Flat/color_icons8_flat_globe.svg" id="1595501752jkf15jzccm" name="Mikrotik LtAP mini LTE kit">
+     <recordtable>
+      <record id="1595503163aenogxsaxj" name="Общая информация" author="Николай" url="" tags="" ctime="20200723141923" dir="1595503163s4fjfp45s9" file="text.html"/>
+      <record id="1595502002fi1xjhccu1" name="Параметры сети" author="" url="" tags="" ctime="20200723140002" dir="1595502002ufc13vrcby" file="text.html"/>
+      <record id="15955019666b6xidnwp2" name="СИМ карта" author="Николай" url="" tags="" ctime="20200723135926" dir="1595501966sjt8z52yhv" file="text.html"/>
+     </recordtable>
+     <node crypt="" icon="/Flat/color_icons8_flat_flow_chart.svg" id="15955027735jc8fw6kdy" name="Mikrotik CSS326-24G-2S+RM">
+      <recordtable>
+       <record id="1595502821qq4lavd6zy" name="Параметры сети" author="" url="" tags="" ctime="20200723141341" dir="1595502821v4g2k8cb3e" file="text.html"/>
+       <record id="1595503030eay56y83cc" name="Порты" author="Николай" url="" tags="" ctime="20200723141710" dir="1595503030vctuh1g15m" file="text.html"/>
+      </recordtable>
+      <node crypt="" icon="/Flat/color_icons8_flat_electronics.svg" id="1595502993mxlewq00a6" name="Сервер Dell R340">
+       <recordtable>
+        <record id="1595503051v34pws35tz" name="Параметры сети" author="" url="" tags="" ctime="20200723141731" dir="1595503051mqitvh0uwm" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" icon="/Gnome/color_gnome_2_computer.svg" id="1595504322z67sg93181" name="АРМ диспетчера">
+       <recordtable>
+        <record id="1595512422c04oltr53l" name="Параметры сети" author="Николай" url="" tags="" ctime="20200723165342" dir="1595512422dshk4jbxe8" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="1595503464dvfthcuj91" name="MOXA">
+       <recordtable>
+        <record id="1595503547hotxjqz1zv" name="Параметры сети" author="Николай" url="" tags="" ctime="20200723142547" dir="159550354755eue1v1xu" file="text.html"/>
+       </recordtable>
+       <node crypt="" id="1595521308kuz6yx2yo5" name="Порт1">
+        <recordtable>
+         <record id="1595626849viyhx4gkoe" name="Параметры порта" author="" url="" tags="" ctime="20200725004049" dir="1595626849lpoi2hmjug" file="text.html"/>
+        </recordtable>
+        <node crypt="" id="1595521372kbimmdy5sn" name="ВПК-2000 адр.1"/>
+        <node crypt="" id="1595521381zks0vu7ofi" name="ВПК-2000 адр.2"/>
+       </node>
+       <node crypt="" id="1595521350afkuwosavm" name="Порт2">
+        <recordtable>
+         <record id="1595626861xudli4lr8o" name="Параметры порта" author="" url="" tags="" ctime="20200725004101" dir="1595626861ng29wzw6nz" file="text.html"/>
+        </recordtable>
+       </node>
+      </node>
+     </node>
+    </node>
+   </node>
+  </node>
+  <node crypt="" icon="/Flat/color_icons8_flat_folder.svg" id="1595625993e8szvdfneu" name="ДПО">
+   <node crypt="" icon="/Flat/color_icons8_flat_opened_folder.svg" id="1595626116tvnqxfiisv" name="ОДПО">
+    <node crypt="" icon="/Flat/color_icons8_flat_folder.svg" id="1595626162jnnxk831gk" name="Старая Русса">
+     <node crypt="" icon="/Flat/color_icons8_flat_globe.svg" id="1595626364pjfht3ri89" name="Mikrotik LtAP mini LTE kit">
+      <recordtable>
+       <record id="1595626364y5a1fzb9dr" name="Общая информация" author="Николай" url="" tags="" ctime="20200725003244" dir="1595626364f3sciq9x37" file="text.html"/>
+       <record id="1595626364kzdbbkva7f" name="Параметры сети" author="" url="" tags="" ctime="20200725003244" dir="15956263643q2u42rz8c" file="text.html"/>
+       <record id="1595626364hijiim2hh6" name="СИМ карта" author="Николай" url="" tags="" ctime="20200725003244" dir="1595626364lkxvtd3efy" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
