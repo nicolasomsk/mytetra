@@ -61,6 +61,22 @@
        <record id="1595626364kzdbbkva7f" name="Параметры сети" author="" url="" tags="" ctime="20200725003244" dir="15956263643q2u42rz8c" file="text.html"/>
        <record id="1595626364hijiim2hh6" name="СИМ карта" author="Николай" url="" tags="" ctime="20200725003244" dir="1595626364lkxvtd3efy" file="text.html"/>
       </recordtable>
+      <node crypt="" id="1595848697hlv80fvmrs" name="ПК">
+       <recordtable>
+        <record id="1595848709j0fs8qwvfp" name="Параметры сети" author="" url="" tags="" ctime="20200727141829" dir="1595848709mfmw9ew0yw" file="text.html"/>
+        <record id="1595848834ff14ldhab8" name="Пример rtsp ссылки " author="" url="" tags="" ctime="20200727142034" dir="1595848834yy6ayiazxu" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="159584873272f9uxq80o" name="MOXA">
+       <recordtable>
+        <record id="1595848744z279wuukb6" name="Параметры сети" author="" url="" tags="" ctime="20200727141904" dir="1595848744nwa95k65q0" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="159584876005q23bebjd" name="SNR-ERD">
+       <recordtable>
+        <record id="1595848769de8zh1y322" name="Параметры сети" author="" url="" tags="" ctime="20200727141929" dir="1595848769cg6179jle6" file="text.html"/>
+       </recordtable>
+      </node>
      </node>
     </node>
    </node>
