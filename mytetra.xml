@@ -95,6 +95,7 @@
       <record id="1596186607jmdkfzd2n0" name="Псевдонимы директорий" author="" url="" tags="" ctime="20200731121007" dir="1596186607rm8z3js68m" file="text.html"/>
       <record id="1596186869xr8k6mveg2" name="Создать, копировать, вставить" author="" url="" tags="" ctime="20200731121429" dir="159618686908dl9m0tgd" file="text.html"/>
       <record id="159618848146ebygo5xl" name="Поиск" author="" url="" tags="" ctime="20200731124121" dir="1596188481regrxkms9r" file="text.html"/>
+      <record id="1596191222h7p38v8th7" name="Переименовать" author="" url="" tags="" ctime="20200731132702" dir="1596191222vqhh30l8ev" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1596188928mnlo6rzbp0" name="Удаленное администрирование">
@@ -111,6 +112,11 @@
       <record id="1596189052szkwxa9o36" name="диспетчер задач" author="" url="" tags="" ctime="20200731125052" dir="1596189052578bcpls66" file="text.html"/>
       <record id="1596189524m5t0cj3am9" name="вывести текущие активные процессы" author="" url="" tags="" ctime="20200731125844" dir="1596189524tqhl331rwu" file="text.html"/>
       <record id="1596189742o7v6gmuc4n" name="Исполнить команду и составить статистику о том, сколько времени потребовалось на исполнение" author="" url="" tags="" ctime="20200731130222" dir="159618974267ytjgq9os" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="15961932844chpygndf3" name="Операции с командами">
+     <recordtable>
+      <record id="1596193303li4zvy6l84" name="Операторы управления" author="" url="" tags="" ctime="20200731140143" dir="15961933032k5ijh7kwu" file="text.html"/>
      </recordtable>
     </node>
    </node>
