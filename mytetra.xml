@@ -85,10 +85,32 @@
   </node>
   <node crypt="" icon="/Flat/color_icons8_flat_reading.svg" id="1596185257u2okzo07q7" name="Шпаргалки по программированию">
    <node crypt="" icon="/Gnome/color_gnome_2_chardevice.svg" id="1596185630ayrd37c767" name="Администрирование LINUX">
+    <recordtable>
+     <record id="1596189632xua5dvnwz8" name="Информация об ОС" author="" url="" tags="" ctime="20200731130032" dir="15961896322yle2l2cd0" file="text.html"/>
+    </recordtable>
     <node crypt="" id="15961865538i5m2ysu0a" name="Навигация по файловой системе">
      <recordtable>
+      <record id="1596190220yb14ozhrl8" name="Структура файловой системы. Директории" author="" url="" tags="" ctime="20200731131020" dir="1596190220cldenqp08p" file="text.html"/>
+      <record id="1596188684t84r8simxh" name="Навигация" author="" url="" tags="" ctime="20200731124444" dir="1596188684eucf5jt5gr" file="text.html"/>
       <record id="1596186607jmdkfzd2n0" name="Псевдонимы директорий" author="" url="" tags="" ctime="20200731121007" dir="1596186607rm8z3js68m" file="text.html"/>
-      <record id="1596186869xr8k6mveg2" name="Копирование" author="" url="" tags="" ctime="20200731121429" dir="159618686908dl9m0tgd" file="text.html"/>
+      <record id="1596186869xr8k6mveg2" name="Создать, копировать, вставить" author="" url="" tags="" ctime="20200731121429" dir="159618686908dl9m0tgd" file="text.html"/>
+      <record id="159618848146ebygo5xl" name="Поиск" author="" url="" tags="" ctime="20200731124121" dir="1596188481regrxkms9r" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1596188928mnlo6rzbp0" name="Удаленное администрирование">
+     <recordtable>
+      <record id="1596188981y8w3czdhu8" name="ssh" author="" url="" tags="" ctime="20200731124941" dir="15961889818f8ugjc1ba" file="text.html"/>
+      <record id="1596189128rkalr63ihb" name="Загрузить веб-страницу или веб-ресурс" author="" url="" tags="" ctime="20200731125208" dir="15961891283bvgl8mdg7" file="text.html"/>
+      <record id="1596189188vj731ym1o6" name="Отправить HTTP-запрос на веб-сервер" author="" url="" tags="" ctime="20200731125308" dir="15961891887u41rc5kla" file="text.html"/>
+      <record id="1596189321ofnyyxqvz1" name="Информация об открытых сокетах" author="" url="" tags="" ctime="20200731125521" dir="1596189321ht4di1pxb3" file="text.html"/>
+      <record id="1596189936cxakzlu3t5" name="Показать инструкцию для команды" author="" url="" tags="" ctime="20200731130536" dir="15961899361pgequsv3r" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1596189022pegq26sc2p" name="Процессы и задачи">
+     <recordtable>
+      <record id="1596189052szkwxa9o36" name="диспетчер задач" author="" url="" tags="" ctime="20200731125052" dir="1596189052578bcpls66" file="text.html"/>
+      <record id="1596189524m5t0cj3am9" name="вывести текущие активные процессы" author="" url="" tags="" ctime="20200731125844" dir="1596189524tqhl331rwu" file="text.html"/>
+      <record id="1596189742o7v6gmuc4n" name="Исполнить команду и составить статистику о том, сколько времени потребовалось на исполнение" author="" url="" tags="" ctime="20200731130222" dir="159618974267ytjgq9os" file="text.html"/>
      </recordtable>
     </node>
    </node>
