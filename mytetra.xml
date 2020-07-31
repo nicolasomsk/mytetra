@@ -84,7 +84,14 @@
    </node>
   </node>
   <node crypt="" icon="/Flat/color_icons8_flat_reading.svg" id="1596185257u2okzo07q7" name="Шпаргалки по программированию">
-   <node crypt="" icon="/Gnome/color_gnome_2_chardevice.svg" id="1596185630ayrd37c767" name="Администрирование LINUX"/>
+   <node crypt="" icon="/Gnome/color_gnome_2_chardevice.svg" id="1596185630ayrd37c767" name="Администрирование LINUX">
+    <node crypt="" id="15961865538i5m2ysu0a" name="Навигация по файловой системе">
+     <recordtable>
+      <record id="1596186607jmdkfzd2n0" name="Псевдонимы директорий" author="" url="" tags="" ctime="20200731121007" dir="1596186607rm8z3js68m" file="text.html"/>
+      <record id="1596186869xr8k6mveg2" name="Копирование" author="" url="" tags="" ctime="20200731121429" dir="159618686908dl9m0tgd" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
    <node crypt="" icon="/Flat/color_icons8_flat_opened_folder.svg" id="1596185396f6w1oy9463" name="Python"/>
    <node crypt="" icon="/Flat/color_icons8_flat_electronics.svg" id="1596185419ffezgk81f3" name="Микроконтроллеры"/>
   </node>
