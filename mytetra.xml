@@ -51,7 +51,11 @@
            <node crypt="" id="1596459376tfo1ph50k3" name="ВИ-2050 адр.4"/>
            <node crypt="" id="1596459409uc3vn6euoe" name="ВИ-2060 адр.5"/>
           </node>
-          <node crypt="" id="1596458365jjg16bo894" name="Порт5"/>
+          <node crypt="" id="1596458365jjg16bo894" name="Порт5 (Резерв)">
+           <recordtable>
+            <record id="1596461596cdy63hc9zo" name="Описание" author="" url="" tags="" ctime="20200803163316" dir="1596461596rh5pbsxpak" file="text.html"/>
+           </recordtable>
+          </node>
           <node crypt="" id="1596458373fvkezmgloz" name="Порт6 (Доп. шкаф освещение)">
            <node crypt="" id="1596460200bcsxz9wbce" name="ВИ-2050 адр.1"/>
            <node crypt="" id="1596460236c1q2zp7cel" name="ВИ-2050 адр.2"/>
@@ -76,6 +80,11 @@
          <recordtable>
           <record id="1595626861xudli4lr8o" name="Параметры порта" author="" url="" tags="" ctime="20200731120148" dir="1595626861ng29wzw6nz" file="text.html"/>
          </recordtable>
+         <node crypt="" id="1596461174c3ek28m99i" name="ШУВРУ">
+          <recordtable>
+           <record id="1596461216rymsy8qdn5" name="Описание" author="" url="" tags="" ctime="20200803162656" dir="1596461216n6tvzi1kwu" file="text.html"/>
+          </recordtable>
+         </node>
         </node>
        </node>
       </node>
