@@ -66,6 +66,16 @@
            <node crypt="" id="1596460321ii4rt8ei5h" name="ВИ-2060 адр.7"/>
            <node crypt="" id="1596460514442z00xo58" name="ВИ-2050 адр.8"/>
           </node>
+          <node crypt="" id="15964692756emzkkbg35" name="Din1 Наличие напряжения 220 в шкафу">
+           <recordtable>
+            <record id="1596469489ev3i1eof0c" name="Описание" author="" url="" tags="" ctime="20200803184449" dir="1596469489sy84myptn5" file="text.html"/>
+           </recordtable>
+          </node>
+          <node crypt="" id="159646929868u82pngl5" name="Din2 Батарея в шкафу разряжена">
+           <recordtable>
+            <record id="1596469564b7ulj55u32" name="Описание" author="" url="" tags="" ctime="20200803184604" dir="15964695647ec0iukmwe" file="text.html"/>
+           </recordtable>
+          </node>
          </node>
          <node crypt="" id="1596458436qn6plp2h3j" name="ВПК-2000 адр.2">
           <node crypt="" id="1596458436toyam6783b" name="Порт1"/>
