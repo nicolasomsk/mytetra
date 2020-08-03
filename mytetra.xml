@@ -52,12 +52,21 @@
            <node crypt="" id="1596459409uc3vn6euoe" name="ВИ-2060 адр.5"/>
           </node>
           <node crypt="" id="1596458365jjg16bo894" name="Порт5"/>
-          <node crypt="" id="1596458373fvkezmgloz" name="Порт6"/>
+          <node crypt="" id="1596458373fvkezmgloz" name="Порт6 (Доп. шкаф освещение)">
+           <node crypt="" id="1596460200bcsxz9wbce" name="ВИ-2050 адр.1"/>
+           <node crypt="" id="1596460236c1q2zp7cel" name="ВИ-2050 адр.2"/>
+           <node crypt="" id="15964602424x3lg7zeg3" name="ВИ-2050 адр.3"/>
+           <node crypt="" id="1596460250808y8s93uo" name="ВИ-2050 адр.4"/>
+           <node crypt="" id="1596460263hfi4zeo77h" name="ВИ-2060 адр.5"/>
+           <node crypt="" id="1596460314chbrwmnl54" name="ВИ-2060 адр.6"/>
+           <node crypt="" id="1596460321ii4rt8ei5h" name="ВИ-2060 адр.7"/>
+           <node crypt="" id="1596460514442z00xo58" name="ВИ-2050 адр.8"/>
+          </node>
          </node>
          <node crypt="" id="1596458436qn6plp2h3j" name="ВПК-2000 адр.2">
           <node crypt="" id="1596458436toyam6783b" name="Порт1"/>
           <node crypt="" id="15964584364mb1ovbbda" name="Порт2"/>
-          <node crypt="" id="15964584365c35avxbc0" name="Порт3"/>
+          <node crypt="" id="15964584365c35avxbc0" name="Порт3 (slave)"/>
           <node crypt="" id="1596458436xrwbftc7ys" name="Порт4"/>
           <node crypt="" id="1596458436huqs7j93pk" name="Порт5"/>
           <node crypt="" id="1596458436d7ypp9od0w" name="Порт6"/>
