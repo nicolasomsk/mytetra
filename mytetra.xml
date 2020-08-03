@@ -40,8 +40,28 @@
          <recordtable>
           <record id="1595626849viyhx4gkoe" name="Параметры порта" author="" url="" tags="" ctime="20200731120148" dir="1595626849lpoi2hmjug" file="text.html"/>
          </recordtable>
-         <node crypt="" id="1596186108s1nldjwvjc" name="ВПК-2000 адр.1"/>
-         <node crypt="" id="1596186108rb8umpbcsy" name="ВПК-2000 адр.2"/>
+         <node crypt="" id="1596186108s1nldjwvjc" name="ВПК-2000 адр.1 (1ЩКД-1)">
+          <node crypt="" id="1596458305ko61aimezr" name="Порт1"/>
+          <node crypt="" id="15964583292hd3fa2uzc" name="Порт2"/>
+          <node crypt="" id="1596458351s0rjjdukrq" name="Порт3 (slave)"/>
+          <node crypt="" id="1596458357ihpxmgc450" name="Порт4">
+           <node crypt="" id="15964593339t1x0ebspl" name="ВИ-2071 адр.1"/>
+           <node crypt="" id="1596459365yl70iy0mjd" name="ВИ-2050 адр.2"/>
+           <node crypt="" id="1596459373bj505h9x5e" name="ВИ-2050 адр.3"/>
+           <node crypt="" id="1596459376tfo1ph50k3" name="ВИ-2050 адр.4"/>
+           <node crypt="" id="1596459409uc3vn6euoe" name="ВИ-2060 адр.5"/>
+          </node>
+          <node crypt="" id="1596458365jjg16bo894" name="Порт5"/>
+          <node crypt="" id="1596458373fvkezmgloz" name="Порт6"/>
+         </node>
+         <node crypt="" id="1596458436qn6plp2h3j" name="ВПК-2000 адр.2">
+          <node crypt="" id="1596458436toyam6783b" name="Порт1"/>
+          <node crypt="" id="15964584364mb1ovbbda" name="Порт2"/>
+          <node crypt="" id="15964584365c35avxbc0" name="Порт3"/>
+          <node crypt="" id="1596458436xrwbftc7ys" name="Порт4"/>
+          <node crypt="" id="1596458436huqs7j93pk" name="Порт5"/>
+          <node crypt="" id="1596458436d7ypp9od0w" name="Порт6"/>
+         </node>
         </node>
         <node crypt="" id="1596186108jezxs8jmul" name="Порт2">
          <recordtable>
