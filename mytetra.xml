@@ -71,7 +71,14 @@
           <node crypt="" id="1596458436toyam6783b" name="Порт1"/>
           <node crypt="" id="15964584364mb1ovbbda" name="Порт2"/>
           <node crypt="" id="15964584365c35avxbc0" name="Порт3 (slave)"/>
-          <node crypt="" id="1596458436xrwbftc7ys" name="Порт4"/>
+          <node crypt="" id="1596458436xrwbftc7ys" name="Порт4">
+           <node crypt="" id="15964629683fnid32mv9" name="ВИ-2071 адр.1"/>
+           <node crypt="" id="1596462975gdfvnofijl" name="ВИ-2071 адр.2"/>
+           <node crypt="" id="1596462982z1mbwvlnh9" name="ВИ-2071 адр.3"/>
+           <node crypt="" id="15964629924dxz8ygzu0" name="ВИ-2071 адр.4"/>
+           <node crypt="" id="1596463005lvcio84s11" name="ВИ-2071 адр.5"/>
+           <node crypt="" id="1596463012atlj8qr7wy" name="ВИ-2071 адр.6"/>
+          </node>
           <node crypt="" id="1596458436huqs7j93pk" name="Порт5"/>
           <node crypt="" id="1596458436d7ypp9od0w" name="Порт6"/>
          </node>
