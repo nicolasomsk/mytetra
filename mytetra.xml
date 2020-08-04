@@ -35,6 +35,7 @@
        <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="15961861081z82vrqx68" name="MOXA">
         <recordtable>
          <record id="1595503547hotxjqz1zv" name="Параметры сети" author="Николай" url="" tags="" ctime="20200731120148" dir="159550354755eue1v1xu" file="text.html"/>
+         <record id="1596532275umff7ismik" name="Параметры порта" author="" url="" tags="" ctime="20200804121115" dir="1596532275snfdsmibme" file="text.html"/>
         </recordtable>
         <node crypt="" id="1596186108wa1ocjrgbr" name="Порт1">
          <recordtable>
