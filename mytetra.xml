@@ -32,7 +32,7 @@
          <record id="1595512422c04oltr53l" name="Параметры сети" author="Николай" url="" tags="" ctime="20200731120148" dir="1595512422dshk4jbxe8" file="text.html"/>
         </recordtable>
        </node>
-       <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="15961861081z82vrqx68" name="MOXA">
+       <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="15961861081z82vrqx68" name="MOXA (1ЩКД-1)">
         <recordtable>
          <record id="1595503547hotxjqz1zv" name="Параметры сети" author="Николай" url="" tags="" ctime="20200731120148" dir="159550354755eue1v1xu" file="text.html"/>
          <record id="1596532275umff7ismik" name="Параметры порта" author="" url="" tags="" ctime="20200804121115" dir="1596532275snfdsmibme" file="text.html"/>
@@ -101,6 +101,79 @@
          <node crypt="" id="1596461174c3ek28m99i" name="ШУВРУ">
           <recordtable>
            <record id="1596461216rymsy8qdn5" name="Описание" author="" url="" tags="" ctime="20200803162656" dir="1596461216n6tvzi1kwu" file="text.html"/>
+          </recordtable>
+         </node>
+        </node>
+       </node>
+       <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="159653613890gwfgi9z6" name="MOXA (01ЩКД-1)">
+        <recordtable>
+         <record id="1596536138rdstwfq9bi" name="Параметры сети" author="Николай" url="" tags="" ctime="20200804131538" dir="1596536138so3q808bob" file="text.html"/>
+         <record id="15965361380rwme287ah" name="Параметры порта" author="" url="" tags="" ctime="20200804131538" dir="1596536138je6z4vxusm" file="text.html"/>
+        </recordtable>
+        <node crypt="" id="1596536138oo7g3nvk7v" name="Порт1">
+         <recordtable>
+          <record id="1596536138rnss01d1fv" name="Параметры порта" author="" url="" tags="" ctime="20200804131538" dir="1596536138d112jrqohe" file="text.html"/>
+         </recordtable>
+         <node crypt="" id="1596536138txvbxbjs6m" name="ВПК-2000 адр.1 (1ЩКД-1)">
+          <node crypt="" id="1596536138p83cqbqwsj" name="Порт1"/>
+          <node crypt="" id="1596536138vkqn6oyvwa" name="Порт2"/>
+          <node crypt="" id="1596536138osd660xo3p" name="Порт3 (slave)"/>
+          <node crypt="" id="1596536138n3hq9smedr" name="Порт4">
+           <node crypt="" id="159653613898bpx68sde" name="ВИ-2071 адр.1"/>
+           <node crypt="" id="15965361382z0uq1sjq3" name="ВИ-2050 адр.2"/>
+           <node crypt="" id="159653613830n768asvd" name="ВИ-2050 адр.3"/>
+           <node crypt="" id="15965361389kqbsdso8f" name="ВИ-2050 адр.4"/>
+           <node crypt="" id="1596536138ydh86lnh5o" name="ВИ-2060 адр.5"/>
+          </node>
+          <node crypt="" id="1596536138ahwfivkuv5" name="Порт5 (Резерв)">
+           <recordtable>
+            <record id="1596536138we4znrex5v" name="Описание" author="" url="" tags="" ctime="20200804131538" dir="1596536138bqhqqkcjcd" file="text.html"/>
+           </recordtable>
+          </node>
+          <node crypt="" id="1596536138d7jt51zrnf" name="Порт6 (Доп. шкаф освещение)">
+           <node crypt="" id="1596536138o6ib3edr1g" name="ВИ-2050 адр.1"/>
+           <node crypt="" id="1596536138whqw32dhcy" name="ВИ-2050 адр.2"/>
+           <node crypt="" id="15965361384vpo6o2lou" name="ВИ-2050 адр.3"/>
+           <node crypt="" id="1596536138cxl0a6lvro" name="ВИ-2050 адр.4"/>
+           <node crypt="" id="15965361384f1l228dvt" name="ВИ-2060 адр.5"/>
+           <node crypt="" id="1596536138dk4gkv3mch" name="ВИ-2060 адр.6"/>
+           <node crypt="" id="15965361387567qftmh6" name="ВИ-2060 адр.7"/>
+           <node crypt="" id="1596536138pfhll3i02o" name="ВИ-2050 адр.8"/>
+          </node>
+          <node crypt="" id="1596536138ws44hfiw6u" name="Din1 Состояние вводного автомата">
+           <recordtable>
+            <record id="1596536138h32soqikt1" name="Описание" author="" url="" tags="" ctime="20200804131538" dir="1596536138a8pnmpe6i7" file="text.html"/>
+           </recordtable>
+          </node>
+          <node crypt="" id="1596536138prdxt0e7ck" name="Din2 Наличие напряжения на вводе">
+           <recordtable>
+            <record id="1596536138etpp64ct89" name="Описание" author="" url="" tags="" ctime="20200804131538" dir="1596536138jloyqhjbzm" file="text.html"/>
+           </recordtable>
+          </node>
+         </node>
+         <node crypt="" id="1596536138ym96jyplo5" name="ВПК-2000 адр.2">
+          <node crypt="" id="1596536138xxpyunuz9p" name="Порт1"/>
+          <node crypt="" id="1596536138z6ogr42pjr" name="Порт2"/>
+          <node crypt="" id="15965361389gyyjq8zb4" name="Порт3 (slave)"/>
+          <node crypt="" id="1596536138r4el92pjko" name="Порт4">
+           <node crypt="" id="15965361388cnnokmxdx" name="ВИ-2071 адр.1"/>
+           <node crypt="" id="1596536138bnv7h6epcx" name="ВИ-2071 адр.2"/>
+           <node crypt="" id="15965361387ovd5mjxou" name="ВИ-2071 адр.3"/>
+           <node crypt="" id="15965361385stuqky594" name="ВИ-2071 адр.4"/>
+           <node crypt="" id="1596536138vuxtm0rlyo" name="ВИ-2071 адр.5"/>
+           <node crypt="" id="15965361381sqgoooezq" name="ВИ-2071 адр.6"/>
+          </node>
+          <node crypt="" id="15965361388sd0b8aufn" name="Порт5"/>
+          <node crypt="" id="1596536138hc5mcb4x30" name="Порт6"/>
+         </node>
+        </node>
+        <node crypt="" id="1596536138gzm3bmtcrz" name="Порт2">
+         <recordtable>
+          <record id="1596536138aee2ijmrjl" name="Параметры порта" author="" url="" tags="" ctime="20200804131538" dir="1596536138d5c54g6f5o" file="text.html"/>
+         </recordtable>
+         <node crypt="" id="1596536138iur7ezexot" name="ШУВРУ">
+          <recordtable>
+           <record id="1596536138snoar22r5l" name="Описание" author="" url="" tags="" ctime="20200804131538" dir="1596536138cb4ccdefjd" file="text.html"/>
           </recordtable>
          </node>
         </node>
