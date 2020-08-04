@@ -35,7 +35,8 @@
        <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="15961861081z82vrqx68" name="MOXA (1ЩКД-1)">
         <recordtable>
          <record id="1595503547hotxjqz1zv" name="Параметры сети" author="Николай" url="" tags="" ctime="20200731120148" dir="159550354755eue1v1xu" file="text.html"/>
-         <record id="1596532275umff7ismik" name="Параметры порта" author="" url="" tags="" ctime="20200804121115" dir="1596532275snfdsmibme" file="text.html"/>
+         <record id="1596532275umff7ismik" name="Параметры порта 1" author="" url="" tags="" ctime="20200804121115" dir="1596532275snfdsmibme" file="text.html"/>
+         <record id="1596541373j43yvphzla" name="Параметры порта 2" author="" url="" tags="" ctime="20200804144253" dir="15965413739mhc1u2h90" file="text.html"/>
         </recordtable>
         <node crypt="" id="1596186108wa1ocjrgbr" name="Порт1">
          <recordtable>
@@ -108,7 +109,8 @@
        <node crypt="" icon="/Flat/color_icons8_flat_tree_structure.svg" id="159653613890gwfgi9z6" name="MOXA (01ЩКД-1)">
         <recordtable>
          <record id="1596536138rdstwfq9bi" name="Параметры сети" author="Николай" url="" tags="" ctime="20200804131538" dir="1596536138so3q808bob" file="text.html"/>
-         <record id="15965361380rwme287ah" name="Параметры порта" author="" url="" tags="" ctime="20200804131538" dir="1596536138je6z4vxusm" file="text.html"/>
+         <record id="15965361380rwme287ah" name="Параметры порта 1" author="" url="" tags="" ctime="20200804131538" dir="1596536138je6z4vxusm" file="text.html"/>
+         <record id="1596541350210yv1olxo" name="Параметры порта 2" author="" url="" tags="" ctime="20200804144230" dir="1596541350s10hxgig0o" file="text.html"/>
         </recordtable>
         <node crypt="" id="1596536138oo7g3nvk7v" name="Порт1">
          <recordtable>
@@ -154,12 +156,11 @@
           <node crypt="" id="1596536138z6ogr42pjr" name="Порт2"/>
           <node crypt="" id="15965361389gyyjq8zb4" name="Порт3 (slave)"/>
           <node crypt="" id="1596536138r4el92pjko" name="Порт4">
-           <node crypt="" id="15965361388cnnokmxdx" name="ВИ-2071 адр.1"/>
-           <node crypt="" id="1596536138bnv7h6epcx" name="ВИ-2071 адр.2"/>
-           <node crypt="" id="15965361387ovd5mjxou" name="ВИ-2071 адр.3"/>
-           <node crypt="" id="15965361385stuqky594" name="ВИ-2071 адр.4"/>
-           <node crypt="" id="1596536138vuxtm0rlyo" name="ВИ-2071 адр.5"/>
-           <node crypt="" id="15965361381sqgoooezq" name="ВИ-2071 адр.6"/>
+           <node crypt="" id="15965361388cnnokmxdx" name="ВИ-2050 адр.1"/>
+           <node crypt="" id="1596536138bnv7h6epcx" name="ВИ-2050 адр.2"/>
+           <node crypt="" id="15965361387ovd5mjxou" name="ВИ-2060 адр.3"/>
+           <node crypt="" id="15965361385stuqky594" name="ВИ-2081 адр.4"/>
+           <node crypt="" id="1596536138vuxtm0rlyo" name="ВИ-2050 адр.5"/>
           </node>
           <node crypt="" id="15965361388sd0b8aufn" name="Порт5"/>
           <node crypt="" id="1596536138hc5mcb4x30" name="Порт6"/>
