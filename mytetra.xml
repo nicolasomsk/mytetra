@@ -121,6 +121,10 @@
           <node crypt="" id="1596536138vkqn6oyvwa" name="Порт2"/>
           <node crypt="" id="1596536138osd660xo3p" name="Порт3 (slave)"/>
           <node crypt="" id="1596536138n3hq9smedr" name="Порт4">
+           <recordtable>
+            <record id="1596547182xsetc5u79t" name="Пропаять порт" author="" url="" tags="" ctime="20200804161942" dir="15965471826qkakjh727" file="text.html"/>
+            <record id="1596547288jeort2pqq1" name="Добавление модулей" author="" url="" tags="" ctime="20200804162128" dir="1596547288sexg36vpz9" file="text.html"/>
+           </recordtable>
            <node crypt="" id="159653613898bpx68sde" name="ВИ-2071 адр.1"/>
            <node crypt="" id="15965361382z0uq1sjq3" name="ВИ-2071 адр.2"/>
            <node crypt="" id="159653613830n768asvd" name="ВИ-2071 адр.3"/>
